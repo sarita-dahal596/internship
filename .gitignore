@@ -1,0 +1,53 @@
+# macOS
+.DS_Store
+
+# Python generated files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments and local tooling
+.venv/
+venv/
+env/
+ENV/
+.idea/
+.vscode/
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Databases and local runtime files
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Archives and generated build/output files
+*.zip
+*.tar
+*.tar.gz
+dist/
+build/
+*.egg-info/
+
+# Large/raw datasets and generated data outputs
+week3_project/transaction_data.csv
+week3_project/transaction.csv.zip
+data/train_fraud_labels.json
+week3/consumer_complaints.csv
+week3/consumer_complaints_output.csv
+
+# Notebook temporary files
+.ipynb_checkpoints/
+
+# Additional historical dataset copy
+/data/New Folder With Items/transactions_data.csv
+/week3_project/transaction.csv
