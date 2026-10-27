@@ -1,0 +1,7 @@
+Deposit | User ID: 1 | Amount: Rs. 1000.0
+Deposit | User ID: 2 | Amount: Rs. 10000.0
+Withdrawal | User ID: 2 | Amount: Rs. 500.0
+Transfer | Sender: 2 | Receiver: 1 | Amount: Rs. 100.0
+Deposit | User ID: 3 | Amount: Rs. 10000.0
+Deposit | User ID: 6 | Amount: Rs. 10000.0
+Payment | User ID: 6 | Merchant: store | Amount: Rs. 1000.0

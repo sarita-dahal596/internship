@@ -1,0 +1,6 @@
+1|sita|sita@123|Basic|1100
+4|shyam|shyam@gmail.com|Premium|0
+2|shyam|shyam@1234|Basic|9400
+3|sabita store||Basic|10000
+5|alice|alice@gmail.com|Premium|0
+6|sgyam|sgyam@gmail.com|Basic|9000.0
